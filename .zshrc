@@ -89,7 +89,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh
 #
-export PATH="/Users/Stuckinaboot/Documents/CIS455/SearchEngine/dependencies/storm/bin:$PATH"
 
 alias gg='git log --oneline --abbrev-commit --branches=\* --graph --decorate --color'
 alias nuke='rm'
